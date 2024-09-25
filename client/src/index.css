@@ -1,0 +1,24 @@
+:root {
+  --ice-blue: #B3E5FC;
+  --frost-blue: #4FB6F1;
+  --icy-white: #E1F5FE;
+  --fire-red: #FF7043;
+  --flame-red: #FF8A65;
+  --burnet-amber: #FF5722;
+ --light-gray: rgba(0,0,0,0.5);
+
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+body{
+  font-weight: 500;
+  background-color: var(--icy-white);
+}
+

@@ -1,0 +1,47 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "react-loading-skeleton/dist/skeleton.css";
+@import "react-toastify/dist/ReactToastify.css";
+
+
+
+.navbar{
+  background-color: var(--ice-blue) !important;
+}
+
+.nav-link{
+  color: var(--light-gray) !important;
+  
+}
+.nav-link.active{
+ color: #000 !important;
+}
+
+
+.back-btn{
+  border: 2px solid var(--frost-blue);
+  color: var(--frost-blue);
+}
+.back-btn:hover{
+  border: 2px solid var(--frost-blue);
+  background-color: var(--frost-blue);
+  color: var(--icy-white);
+}
+
+.del-btn{
+  border: 2px solid var(--fire-red);
+  color: var(--fire-red);
+}
+.del-btn:hover{
+  border: 2px solid var(--fire-red);
+  background-color: var(--fire-red);
+  color: var(--icy-white);
+}
+
+.custom-card{
+   cursor: pointer;
+   transition: all 0.3s;
+}
+.custom-card:hover{
+   transform: scale(1.05);
+  transition: all 0.3s;
+}
