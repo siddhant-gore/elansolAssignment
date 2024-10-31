@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Project: Game of Thrones - API of Ice and Fire (Elansol Assignment)</h1>
+  <h1>Project: Game of Thrones - API of Ice and Fire </h1>
   <p>This project is a MERN stack application that interacts with the <strong>Game of Thrones - API of Ice and Fire</strong>. It allows users to list, view details, and manage books, characters, and houses from the Game of Thrones universe.</p>
 
   <h2>Frontend (Client)</h2>
